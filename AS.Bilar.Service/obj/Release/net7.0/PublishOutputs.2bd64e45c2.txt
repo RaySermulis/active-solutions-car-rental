@@ -1,3 +1,0 @@
-C:\WS\repos\active-solutions-bilar\AS.Bilar\AS.Bilar.Service\bin\Release\net7.0\publish\AS.Bilar.Service.dll
-C:\WS\repos\active-solutions-bilar\AS.Bilar\AS.Bilar.Service\bin\Release\net7.0\publish\AS.Bilar.Service.deps.json
-C:\WS\repos\active-solutions-bilar\AS.Bilar\AS.Bilar.Service\bin\Release\net7.0\publish\AS.Bilar.Service.pdb
